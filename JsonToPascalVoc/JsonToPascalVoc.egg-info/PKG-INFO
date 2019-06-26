@@ -1,0 +1,14 @@
+Metadata-Version: 2.1
+Name: JsonToPascalVoc
+Version: 0.0.2
+Summary: Package To Convert Json Files To PascalVOC XML files
+Home-page: UNKNOWN
+Author: Caner Karagüler
+Author-email: caner.karaguler@gmail.com
+License: UNKNOWN
+Description: UNKNOWN
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Description-Content-Type: text/markdown
