@@ -6,7 +6,7 @@ Home-page: UNKNOWN
 Author: Caner Karagüler
 Author-email: caner.karaguler@gmail.com
 License: UNKNOWN
-Description: UNKNOWN
+Description: JsonToPascalVoc is a Python library for converting some special Json strings to PascalVOC format XML files.
 Platform: UNKNOWN
 Classifier: Programming Language :: Python :: 3
 Classifier: License :: OSI Approved :: MIT License

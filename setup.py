@@ -1,14 +1,12 @@
 from setuptools import setup
 
-with open("README.md", "r") as fh:
-    long_description = fh.read()
 
 setup(
 	name="JsonToPascalVoc",
 	version='0.0.2',
 	author='Caner Karagüler',
 	author_email='caner.karaguler@gmail.com',
-	long_description = long_description,
+	long_description = 'JsonToPascalVoc is a Python library for converting some special Json strings to PascalVOC format XML files.',
 	long_description_content_type="text/markdown",
 	description = 'Package To Convert Json Files To PascalVOC XML files',
 	py_modules=["Converter"],
