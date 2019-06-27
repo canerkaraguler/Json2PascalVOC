@@ -1,0 +1,8 @@
+README.md
+setup.py
+Json2PascalVoc/Converter.py
+Json2PascalVoc/__init__.py
+Json2PascalVoc.egg-info/PKG-INFO
+Json2PascalVoc.egg-info/SOURCES.txt
+Json2PascalVoc.egg-info/dependency_links.txt
+Json2PascalVoc.egg-info/top_level.txt
