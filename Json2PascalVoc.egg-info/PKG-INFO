@@ -1,28 +1,31 @@
 Metadata-Version: 2.1
 Name: Json2PascalVoc
-Version: 1.0.4
+Version: 1.0.5
 Summary: Package To Convert Json Files To PascalVOC XML files
 Home-page: https://github.com/canerkaraguler/Json2PascalVOC
 Author: Caner Karagüler
 Author-email: caner.karaguler@gmail.com
 License: UNKNOWN
-Description: # JsonToPascalVoc
+Description: # Json2PascalVoc
         
         Json2PascalVoc is a Python library for converting some special Json strings to PascalVOC format XML files.
         
         ## Installation
         
         Use the package manager [pip](https://pip.pypa.io/en/stable/) to install Json2PascalVoc.
-        Or download package from [GitHub](https://github.com/canerkaraguler/JsonToPascalVOC)
+        
+        
         
         ```bash
         pip install Json2PascalVoc
         ```
         
+        Or download package from [GitHub](https://github.com/canerkaraguler/JsonToPascalVOC)
+        
         ## Usage
         
         ```python
-        from Json2PascalVoc import Converter
+        from Json2PascalVoc.Converter import Converter
         
         myConverter = Converter()
         # returns a Converter Object
