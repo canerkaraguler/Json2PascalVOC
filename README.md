@@ -24,6 +24,9 @@ myConverter = Converter()
 myConverter.convertJsonToPascal("data.json")
 # Converts Json to PascalVOC XML and saves the XML file to the related file path
 
+myConverter.convertJsonToPascal("data.json", "data.xml")
+# Converts Json to PascalVOC XML and saves the XML file at the path given at second argument
+
 ```
 An example data.json file is :
 ```json
